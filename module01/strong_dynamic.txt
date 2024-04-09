@@ -1,0 +1,30 @@
+What is Static Typing?
+Static typing refers to a programming language feature where the data type is known at compile time.
+
+Advantages: How Static Typing Can Improve Developer Productivity
+Mistakes can be caught very early: Unless and until the errors that are caught during the compilation are corrected, the compilation or interpretation doesn't move further. This gives us a brilliant advantage with static typing that trivial errors can be caught very early, as early as during or before the compilation. This will help us in developing a safe and better program.
+Static typing can help us produce memory-optimized machine code: We learned earlier that data type in a static typing is known at the compilation time. Since the type of the data that we declare in the program is known beforehand by the computer, the computer will be in a better position to calculate the memory requirement of each data and then come up with a machine code that will be optimal as far as memory allocation is concerned.
+Programs typically perform better at execution time: These two points together give us the third advantage, which is that programs typically perform better at execution time. Since we catch trivial errors early and also produce a memory-optimized machine code, the program eventually will be a better program compared to another program that doesn't have these advantages.
+Improved code maintainability and readability: Static typing can improve code maintainability and readability by making the code easier to understand and modify. This is because type annotations provide additional information about the expected inputs and outputs of a function or method, making it easier for other developers to understand how the code works and what changes can be made safely. Additionally, static typing encourages developers to write self-documenting code, which can reduce the need for additional documentation and make it easier to maintain the code over time.
+Now, let's go and have a look at the disadvantages:
+
+
+Disadvantages: Common Criticisms of Static Typing
+Overhead of defining the data type explicitly: The overhead of defining the data type explicitly is a major disadvantage of static typing. Since one needs to know the data type that is going to be used in the code, they have the responsibility to explicitly define the data type while writing the code.
+Variables cannot be re-assigned to a different data type: Once a variable has been defined with a data type and the value has been assigned to it, the same variable or label cannot be assigned with a different data type and used for another purpose.
+
+
+Dynamic Typing – Advantages and Disadvantages
+Dynamic Typing, like it’s static counterpart, has advantages and disadvantages.
+
+
+Advantages of Dynamic Typing
+No overhead of defining data type explicitly: Dynamic typing allows the type of data to be determined during program execution. It doesn't require explicit definition of data type while writing the code.
+Variable reassignment to a different data type is possible: A different value can be assigned to a variable to reassign it to a different data type.
+Runtime type information is helpful for features like Dynamic dispatch: Runtime type information helps in selecting the implementation of a particular operation that needs to be executed during runtime.
+
+Disadvantages of Dynamic Typing
+Type errors are not detected earlier: Type errors that occur due to data type mismatch are not detected until the program is executed.
+Less memory optimized machine code: Memory allocation is less optimized since memory is allocated as and when the type of data is determined while running the program.
+
+

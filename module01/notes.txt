@@ -1,0 +1,7 @@
+https://www.geeksforgeeks.org/why-0-3-0-2-is-not-equal-to-0-1-in-python/
+
+0.3 - 0.2
+https://www.youtube.com/watch?v=P2R4szyyFuA
+https://docs.python.org/3/library/functions.html
+
+float 64 bits in python
