@@ -5,8 +5,8 @@ set1 = set(list1)
 set2 = set(list2)
 print(set1, set2)
 
-set_union = set1 | set2  # объединение
+set_union = set1 | set2  
 print(list(set_union))
 
-set_cross = set1 & set2  # пресечение
+set_cross = set1 & set2 
 print(list(set_cross))
