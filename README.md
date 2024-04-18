@@ -10,6 +10,6 @@ Lecture materials for python core lectures
 - [Refactoring Guru](https://refactoring.guru/)
 - [VS code shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - [Python installation tutorial](https://www.tutorialsteacher.com/python/install-python)
-
+https://realpython.com/python-use-global-variable-in-function/
 
 ![image](https://github.com/OlegAndrus12/GoITSamplesCore/assets/37078272/90d0e16c-f2e7-47c3-a80d-d6217ec77097)

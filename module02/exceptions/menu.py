@@ -13,6 +13,17 @@ while True:
         choice = int(input("What would you like >>> "))
         if choice > 5 or choice < 1:
             raise Exception("Please choose an option from menu [1-5]")
+        match choice:
+            case 1:
+                print("tiktok")
+            case 2:
+                print("instagram")
+            case 3:
+                print("horray!!! Catch the frisbee")
+            case 4:
+                print("VScode is waiting for you")
+            case _:
+                print("nothing")
     except ValueError:
         print("Please enter a number")
         continue
