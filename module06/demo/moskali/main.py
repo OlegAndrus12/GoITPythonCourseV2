@@ -43,6 +43,14 @@ def show_statistics():
 
 
 def main():
+
+    calls_dict = {
+        1: add_new_record,
+        2: show_statistics
+    }
+
+    calls_dict[choice]()
+
     print(MENU)
     while True:
         try:

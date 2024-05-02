@@ -24,5 +24,9 @@ https://realpython.com/python-use-global-variable-in-function/
 - [Regex tutorial 1](https://github.com/abhirajshourya/Regex-Course/tree/main)
 - [Regex tutorial 2](https://github.com/michelleful/RegexTutorial/tree/master)
 - [Regex tutorial 3](https://github.com/nikhilkumarsingh/RegEx-In-Python/tree/master)
-
+- [Named tuple](https://realpython.com/python-namedtuple/)
+- [Pre-commit to run black every time commit is done](https://pre-commit.com/)
+- [Decorators 1](https://vegibit.com/python-error-handling-decorator/)
+- [Generators and iterators](https://realpython.com/python-iterators-iterables/#creating-generator-iterators)
+- [Comprehensions vs filter/map/reduce](https://www.knowledgehut.com/blog/
 ![image](https://github.com/OlegAndrus12/GoITSamplesCore/assets/37078272/90d0e16c-f2e7-47c3-a80d-d6217ec77097)
