@@ -1,0 +1,24 @@
+Iterables
+
+Lists, tuples, dictionaries, and sets are all iterable objects.
+They are iterable containers which you can get an iterator from.
+All these objects have an iter() method which is used to get an iterator.
+
+Iterators
+
+An iterator is an object that contains a countable number of values.
+Technically, in Python, an iterator is an object which implements the
+iterator protocol, which consists of the methods __iter__() and __next__().
+
+Generators
+Generators give you lazy evaluation. You use them by iterating over them, either explicitly
+with 'for' or implicitly by passing it to any function or construct that iterates.
+You can think of generators as returning multiple items, as if they return a list,
+but instead of returning them all at once they return them one-by-one,
+and the generator function is paused until the next item is requested.
+
+iterator is a more general concept: any object whose class has a __next__ method
+and an __iter__ method.
+
+Every generator is an iterator, but not vice versa.
+A generator is built by calling a function that has one or more yield expressions
