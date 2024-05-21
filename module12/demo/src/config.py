@@ -1,0 +1,5 @@
+
+
+USER_NAME = "admin"
+USER_PASSWORD = "Q23D"
+DB_NAME = "DEMO"

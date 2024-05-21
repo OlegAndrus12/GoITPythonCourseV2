@@ -28,5 +28,10 @@ https://realpython.com/python-use-global-variable-in-function/
 - [Pre-commit to run black every time commit is done](https://pre-commit.com/)
 - [Decorators 1](https://vegibit.com/python-error-handling-decorator/)
 - [Generators and iterators](https://realpython.com/python-iterators-iterables/#creating-generator-iterators)
-- [Comprehensions vs filter/map/reduce](https://www.knowledgehut.com/blog/
+- [Comprehensions vs filter/map/reduce](https://www.knowledgehut.com/blog/programming/python-map-list-comprehension#python%C2%A0any-list-comprehension%C2%A0(use-of-%22any%22-keyword)%C2%A0)
+- [OOP tutorial](https://github.com/milaan9/06_Python_Object_Class/blob/main/001_Python_OOPs_Concepts.ipynb)
+- [Pandas tutorial 1](https://www.kaggle.com/learn/pandas)
+- [Pandas tutorial 2](https://www.kaggle.com/code/rajmehra03/a-complete-pandas-tutorial)
+- [Pandas tutorial 3](https://github.com/jvns/pandas-cookbook/tree/master)
+
 ![image](https://github.com/OlegAndrus12/GoITSamplesCore/assets/37078272/90d0e16c-f2e7-47c3-a80d-d6217ec77097)
